@@ -1,0 +1,32 @@
+HTTrack3.49-2 launched on Fri, 20 Dec 2019 22:55:00 at https://infogsolution.com/
+(winhttrack https://infogsolution.com/ -O "/Users/lucky/websites/infogsolution" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:55:38	Error: 	"Not Found" (404) at link https://infogsolution.com/museutils.js (from https://infogsolution.com/)
+22:55:38	Error: 	"Not Found" (404) at link https://infogsolution.com/jquery.musepolyfill.bgsize.js (from https://infogsolution.com/)
+22:55:38	Error: 	"Not Found" (404) at link https://infogsolution.com/webpro.js (from https://infogsolution.com/)
+22:55:38	Error: 	"Not Found" (404) at link https://infogsolution.com/musewpslideshow.js (from https://infogsolution.com/)
+22:55:38	Error: 	"Not Found" (404) at link https://infogsolution.com/jquery.museoverlay.js (from https://infogsolution.com/)
+22:55:38	Error: 	"Not Found" (404) at link https://infogsolution.com/touchswipe.js (from https://infogsolution.com/)
+22:55:38	Error: 	"Not Found" (404) at link https://infogsolution.com/jquery.watch.js (from https://infogsolution.com/)
+22:55:38	Error: 	"Not Found" (404) at link https://infogsolution.com/museredirect.js (from https://infogsolution.com/)
+22:55:38	Error: 	"Not Found" (404) at link https://infogsolution.com/jquery.scrolleffects.js (from https://infogsolution.com/)
+22:56:27	Error: 	"Not Found" (404) at link https://infogsolution.com/mautic/index.php (from https://infogsolution.com/)
+22:56:27	Error: 	"Not Found" (404) at link https://infogsolution.com/phone/museutils.js (from https://infogsolution.com/phone/index.html)
+22:56:27	Error: 	"Not Found" (404) at link https://infogsolution.com/phone/jquery.musepolyfill.bgsize.js (from https://infogsolution.com/phone/index.html)
+22:56:27	Error: 	"Not Found" (404) at link https://infogsolution.com/phone/webpro.js (from https://infogsolution.com/phone/index.html)
+22:56:27	Error: 	"Not Found" (404) at link https://infogsolution.com/phone/musewpslideshow.js (from https://infogsolution.com/phone/index.html)
+22:56:27	Error: 	"Not Found" (404) at link https://infogsolution.com/phone/jquery.museoverlay.js (from https://infogsolution.com/phone/index.html)
+22:56:27	Error: 	"Not Found" (404) at link https://infogsolution.com/phone/touchswipe.js (from https://infogsolution.com/phone/index.html)
+22:56:27	Error: 	"Not Found" (404) at link https://infogsolution.com/phone/jquery.watch.js (from https://infogsolution.com/phone/index.html)
+22:56:41	Error: 	"Not Found" (404) at link https://infogsolution.com/jquery.musemenu.js (from https://infogsolution.com/about-us.html)
+22:56:45	Error: 	"Not Found" (404) at link https://infogsolution.com/musewpdisclosure.js (from https://infogsolution.com/our-services.html)
+22:56:47	Error: 	"Not Found" (404) at link https://infogsolution.com/phone/jquery.musemenu.js (from https://infogsolution.com/phone/about-us.html)
+22:56:51	Error: 	"Not Found" (404) at link https://infogsolution.com/phone/musewpdisclosure.js (from https://infogsolution.com/phone/our-services.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 52 seconds : 105 links scanned, 83 files written (1262227 bytes overall) [901235 bytes received at 8046 bytes/sec], 1301051 bytes transferred using HTTP compression in 105 files, ratio 65%, 17.6 requests per connection
+(21 errors, 0 warnings, 0 messages)

@@ -1,0 +1,61 @@
+#u7525
+{
+	vertical-align: top;
+	background: transparent url("../images/u7525.png") no-repeat 0px 0px;
+}
+
+#u7525:hover
+{
+	background: transparent url("../images/u7525-r.png") no-repeat 0px 0px;
+}
+
+#u7523
+{
+	vertical-align: top;
+	background: transparent url("../images/u7523.png") no-repeat 0px 0px;
+}
+
+#u7523:hover
+{
+	background: transparent url("../images/u7523-r.png") no-repeat 0px 0px;
+}
+
+#u7529
+{
+	vertical-align: top;
+	background: transparent url("../images/u7529.png") no-repeat 0px 0px;
+}
+
+#u7529:hover
+{
+	background: transparent url("../images/u7529-r.png") no-repeat 0px 0px;
+}
+
+#u7528-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+}
+
+#u7831-7
+{
+	background-color: transparent;
+	line-height: 14px;
+	text-align: right;
+	font-size: 12px;
+	font-family: fira-sans, sans-serif;
+	font-weight: 500;
+}
+
+#u7831
+{
+	font-weight: 700;
+}
+
+#u7831-3
+{
+	text-decoration: none;
+	color: #3E3E3E;
+}
+
