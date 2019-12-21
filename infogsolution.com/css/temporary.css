@@ -1,0 +1,30 @@
+.accordion-toggle {
+	cursor: pointer;
+	-index: 36;
+	width: 611px;
+	border-width: 0px;
+	background-color:
+	transparent;
+	padding-bottom: 0px;
+	position: relative;
+}
+.accordion-content {
+    display: none;
+}
+.accordion-content.default {
+    display: block;
+}
+
+.accordion-temp {
+	padding: 50px;
+}
+
+.accordion-toggle-temp {
+	background: #3E3E3E;
+	padding: 20px;
+	color: white;
+}
+
+.accordion-content-temp {
+	padding: 30px !important;
+}
