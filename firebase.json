@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "infogsolution.com",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
